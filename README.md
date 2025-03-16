@@ -5,5 +5,5 @@
 ---
 
 ## 👨‍💻 Autores
-Desenvolvido por **[Alexia Rodrigues](https://github.com/seu-usuario)** e **[José Arthur](https://github.com/seu-usuario)** - 2025
+Desenvolvido por **[Alexia Rodrigues](https://github.com/WellPertter)** e **[José Arthur](https://github.com/alexias1)** - 2025
 
