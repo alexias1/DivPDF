@@ -1,0 +1,1 @@
+# Este arquivo indica que 'func' é um pacote Python
